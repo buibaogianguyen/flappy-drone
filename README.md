@@ -20,7 +20,7 @@ A Unity game inspired by Flappy Bird, but with a drone and industrial design!
 ---
 
 ## 🖼️ Screenshots
-![Flappy Drone Gameplay](https://imgur.com/a/cZUTm3x.gif)
+![Flappy Drone Gameplay](https://i.imgur.com/PdBUc9c.gif)
 
 
 ---
